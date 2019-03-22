@@ -1,0 +1,36 @@
+A Wilderness Weather Station
+
+ 
+Rowshni Tasneem Usha (15301082)
+Department of Computer Science and Engineering
+BRAC University
+Email: rowshni.t96@gmail.com
+
+
+ 
+
+I.	ABSTRACT
+The proposed system is a distributed layered embedded system. The system consists of several sub-systems such as the weather station monitoring system, data management and archiving system and the station maintenance system. The system all together will assist to observe and monitor weather conditions in large areas of wilderness. Wilderness weather system are part of a larger system which is a weather information system that collects data from weather stations and makes it available to other system for processing.
+
+II.	OBJECTIVE
+
+•	To build a weather station system that will collect data and perform initial data processing on the raw sensor reading. 
+•	Ensure communication between the sub-systems and proper transferring of information by satellite.
+•	Create and control a database system for archiving weather parameters gathered and processed by weather station system.
+•	 Implement a station maintenance system which will communicate with all weather station and monitor system health and report back in case of unusual activities.
+ 
+III.	  FEATURES
+
+•	Each station will measure and collect weather parameters from instruments.
+•	Data of the wind speed and direction, the ground and air temperatures, the barometric pressure, and the rainfall will be measured over 24-hour period.
+•	The software will convert collected data from sensors into understandable values using suitable formulas.
+•	The system software will be responsible creating and managing databases.
+•	The process includes acquiring, validating, storing weather parameters.
+•	Transmit collected data from weather station system to data management system.
+•	Establish communication over satellite link and ensure transmission of information when requested by the data collection system.
+•	Store information if communication fails and maintain data locally until communication is established again.
+•	Software system will collect parameter readings periodically (for example, temperatures are measured every minute.)
+•	Run regular diagnostic tests of the overall system, Monitor the instruments, power, and communication hardware and report faults to the management system.
+•	Allow for dynamic reconfiguration where parts of the software are replaced with new versions and where backup instruments are switched into the system in the event of system failure.
+
+
