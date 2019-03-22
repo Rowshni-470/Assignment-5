@@ -1,0 +1,34 @@
+An Insulin Pump Control System
+
+ 
+Rowshni Tasneem Usha (15301082)
+Department of Computer Science and Engineering
+BRAC University
+Email: rowshni.t96@gmail.com
+
+
+ 
+
+I.	 ABSTRACT
+The proposed system is an embedded system that will control a software. The insulin pump is an integrated component insulin delivery system for diabetes patients. The software is going to collect information gathered from sensors and control a pump to deliver a controlled dose of insulin to a particular patient. The system architecture for the software is Repository architecture. All data or information in the system is managed by a central control system that is accessible to all system components. Components do not interact directly, only through the repository. The software will assist diabetic patients and calculate the dose of insulin that they should inject.
+
+II.	OBJECTIVE
+
+•	To build a user-friendly and adaptable system that can be implemented to assist diabetic patient and ease their insulin intake. 
+•	In order to build the embedded system sub-systems must exchange data though a central repository system.
+•	Components do not interact directly, only through the repository.
+•	Implement a data-driven systems where the inclusion of data in the repository or central controller triggers an action.
+•	The software should include all the collected data and perform calculation to provide dose amount of insulin.
+
+III.	FEATURES
+
+•	The software will be responsible for controlling several sub-systems. 
+•	The sub-systems include sensor reading, insulin pump, clock, alarm.
+•	All the sub-systems are linked together and controlled by a central controller system.
+•	Components will not interact directly, only through the repository or central control system.
+•	The embedded software system will analyze sensor reading to learn the blood sugar level of the patient. 
+•	It will calculate the insulin dose and control the insulin pump.
+•	The system shall be available to deliver insulin when required. 
+•	The system shall deliver the correct amount of insulin to counteract the current level of blood sugar. 
+
+
