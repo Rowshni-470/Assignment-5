@@ -1,0 +1,32 @@
+A Patient Information System For Mental Health Care
+
+ 
+Rowshni Tasneem Usha (15301082)
+Department of Computer Science and Engineering
+BRAC University
+Email: rowshni.t96@gmail.com
+
+
+ 
+
+I.	 ABSTRACT
+The proposed system is an information system that is intended for use in clinics. The system will maintain information about patients who are suffering from mental health problem and the information of treatment that they received. The system can be also included in local medical practices or community centers. The system architecture for the software is client- server based system and a centralized database of patient information. The database can be accessible by several local systems though secured network connectivity. The system can be used by several users such as doctor, nurse, medical staff and examiners etc. 
+
+II.	OBJECTIVE
+
+•	To build a user-friendly and adaptable system that can be implemented to assist in medical service to help mentally challenged patients. 
+•	Build a client-server architecture in order to implement the system.
+•	Create and use a centralized database system for patient information, medical records etc.
+•	Allow interaction and exchange of data through verified local computer system over a secured network system that can be accessed by medical staff, doctors, nurses, receptionist and administrative staffs.
+ 
+III.	FEATURES
+
+•	The software will be function over client-server based architecture.
+•	Provide medical staff with timely information to support the treatment of patients. 
+•	The system will record information about patients, consultations, conditions and treatments.
+•	A user shall be able to search the appointments lists for all clinics.
+•	The system shall generate each day, for each clinic, a list of patients who are expected to attend appointments that day. 
+•	Each staff member using the system shall be uniquely identified by his or her employee number. 
+•	Clinician users can create patient records, edit or update the information and view patient history.
+•	The system will regularly monitor patient record and generate alert if any problem is detected.
+•	The system should ensure privacy of patient information and never disclose information to anyone other than the authorized medical staffs. 
